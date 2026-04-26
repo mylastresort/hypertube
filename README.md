@@ -7,7 +7,14 @@ The platform supports real-time torrent-based video streaming using **HLS**, sec
 
 ## 🎥 Demo
 
-[![Hypertube Demo](https://img.youtube.com/vi/L0X-5HPQMko/maxresdefault.jpg)](https://www.youtube.com/watch?v=L0X-5HPQMko)
+<a href="https://www.youtube.com/watch?v=L0X-5HPQMko" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge"/>
+</a>
+</br>
+</br>
+<a href="https://www.youtube.com/watch?v=L0X-5HPQMko" target="_blank">
+  <img src="https://img.youtube.com/vi/L0X-5HPQMko/maxresdefault.jpg" alt="Hypertube Demo" width="720"/>
+</a>
 
 ---
 

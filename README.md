@@ -5,6 +5,12 @@ The platform supports real-time torrent-based video streaming using **HLS**, sec
 
 ---
 
+## 🎥 Demo
+
+[![Hypertube Demo](https://img.youtube.com/vi/L0X-5HPQMko/maxresdefault.jpg)](https://www.youtube.com/watch?v=L0X-5HPQMko)
+
+---
+
 ## 🧱 Tech Stack
 
 ### Frontend
